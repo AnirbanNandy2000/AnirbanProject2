@@ -52,7 +52,7 @@ header{
     color: rgb(255, 232, 26);
     margin-right: 2px;
 }
-/* #coupon{
+#coupon{
     height:350px;
     width:340px;
     background-color: aqua;
@@ -60,7 +60,7 @@ header{
     margin-left:34%;
     position:absolute;
     margin-top:-110%;
-} */
+}
 footer{
     height:80px;
     /* border:2px solid yellow; */

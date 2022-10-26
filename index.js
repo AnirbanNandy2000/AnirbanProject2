@@ -1,16 +1,16 @@
-// function changeMode()
-//     {
-//         let mybody=document.body;
-//         mybody.classList.toggle('dark-mode')
-//     }
-// function loadCoupon()
-// {
-//     document.getElementById('coupon').style.visibility='visible';
-// }
-// function closeCoupon()
-// {
-//     document.getElementById('coupon').style.visibility='hidden';
-// }
+function changeMode()
+    {
+        let mybody=document.body;
+        mybody.classList.toggle('dark-mode')
+    }
+function loadCoupon()
+{
+    document.getElementById('coupon').style.visibility='visible';
+}
+function closeCoupon()
+{
+    document.getElementById('coupon').style.visibility='hidden';
+}
 // let x=document.getElementById('out');
 // let y=document.getElementById('weatherOut');
 // function geolocation(){
