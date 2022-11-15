@@ -1,0 +1,200 @@
+[
+    {
+        "variety_id" : 1,
+        "variety_name" : "Mobile",
+        "varieties" : [
+            {
+                "Mobile_id" : 1,
+                "Mobile name" : "Vivo y12",
+                "Price" : 10000,
+                "Rating" : 4
+            },
+            {
+                "Mobile_id" : 2,
+                "Mobile name" : "Vivo y15",
+                "Price" : 15000,
+                "Rating" : 4.1
+            },
+            {
+                "Mobile_id" : 3,
+                "Mobile name" : "Vivo y16",
+                "Price" : 10000,
+                "Rating" : 3.8
+            },
+            {
+                "Mobile_id" : 4,
+                "Mobile name" : "Vivo y20",
+                "Price" : 20000,
+                "Rating" : 4.4
+            },
+            {
+                "Mobile_id" : 5,
+                "Mobile name" : "Vivo y25",
+                "Price" : 25000,
+                "Rating" : 4.5
+            }
+        ]
+    },
+    {
+        "variety_id" : 2,
+        "variety_name" : "Grocery",
+        "varieties" : [
+            {
+                "Grocery_id" : 1,
+                "Grocery name" : "Staples",
+                "Price" : 500,
+                "Rating" : 3.5
+            },
+            {
+                "Grocery_id" : 2,
+                "Grocery name" : "Snacks and Beverages",
+                "Price" : 200,
+                "Rating" : 3
+            },
+            {
+                "Grocery_id" : 3,
+                "Grocery name" : "Packaged Food",
+                "Price" : 450,
+                "Rating" : 4.1
+            },
+            {
+                "Grocery_id" : 4,
+                "Grocery name" : "Personal and Baby Care",
+                "Price" : 1000,
+                "Rating" : 4.3
+            },
+            {
+                "Grocery_id" : 5,
+                "Grocery name" : "Home and Kitchen",
+                "Price" : 10000,
+                "Rating" : 4.2
+            }
+        ]
+    },
+    {
+        "variety_id" : 3,
+        "variety_name" : "Fashion",
+        "varieties" : [
+            {
+                "Fashion_id" : 1,
+                "Fashion name" : "Men's Wear",
+                "Price" : 20000,
+                "Rating" : 4.3
+            },
+            {
+                "Fashion_id" : 2,
+                "Fashion name" : "Men's Footwear",
+                "Price" : 5000,
+                "Rating" : 4.2
+            },
+            {
+                "Fashion_id" : 3,
+                "Fashion name" : "Women's Wear",
+                "Price" : 15000,
+                "Rating" : 4.1
+            },
+            {
+                "Fashion_id" : 4,
+                "Fashion name" : "Women's Footwear",
+                "Price" : 5000,
+                "Rating" : 4.4
+            },
+            {
+                "Fashion_id" : 5,
+                "Fashion name" : "Kids",
+                "Price" : 2000,
+                "Rating" : 4
+            },
+            {
+                "Fashion_id" : 6,
+                "Fashion name" : "Watches",
+                "Price" : 20000,
+                "Rating" : 4.5
+            },
+            {
+                "Fashion_id" : 1,
+                "Fashion name" : "Bags",
+                "Price" : 20000,
+                "Rating" : 4.7
+            },
+            {
+                "Fashion_id" : 1,
+                "Fashion name" : "Suitcases",
+                "Price" : 10000,
+                "Rating" : 4.3
+            }
+        ]
+    },
+    {
+        "variety_id" : 4,
+        "variety_name" : "Electronics",
+        "varieties" : [
+            {
+                "Electronics_id" : 1,
+                "Electronics name" : "Camera",
+                "Price" : 100000,
+                "Rating" : 4.3
+            },
+            {
+                "Electronics_id" : 2,
+                "Electronics name" : "Laptop",
+                "Price" : 50000,
+                "Rating" : 4.5
+            },
+            {
+                "Electronics_id" : 3,
+                "Electronics name" : "TV",
+                "Price" : 100000,
+                "Rating" : 4.4
+            },
+            {
+                "Electronics_id" : 4,
+                "Electronics name" : "Home-Theater",
+                "Price" : 100000,
+                "Rating" : 4.1
+            },
+            {
+                "Electronics_id" : 5,
+                "Electronics name" : "Speakers",
+                "Price" : 50000,
+                "Rating" : 4.8
+            }
+        ]
+    },
+    {
+        "variety_id" : 5,
+        "variety_name" : "Appliances",
+        "varieties" : [
+            {
+                "Appliances_id" : 1,
+                "Appliances name" : "Air-Conditioners",
+                "Price" : 50000,
+                "Rating" : 4.5
+            },
+            {
+                "Appliances_id" : 2,
+                "Appliances name" : "Washing-Machines",
+                "Price" : 30000,
+                "Rating" : 4.2
+            },
+            {
+                "Appliances_id" : 3,
+                "Appliances name" : "Refrigerators",
+                "Price" : 20000,
+                "Rating" : 4.4
+            },
+            {
+                "Appliances_id" : 4,
+                "Appliances name" : "DishWashers",
+                "Price" : 15000,
+                "Rating" : 4.1
+            },
+            {
+                "Appliances_id" : 5,
+                "Appliances name" : "Home-Appliances",
+                "Price" : 25000,
+                "Rating" : 4.3
+            }
+        ]
+    }
+]

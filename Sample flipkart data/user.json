@@ -1,0 +1,62 @@
+[
+    {
+        "user_id" : 1,
+        "login_id" : "Anirban88",
+        "password" : "anirban@123",
+        "user_name" : "Anirban Nandy",
+        "email" : "anirbannandy8801@gmail.com",
+        "phone_no" : 9674095357,
+        "address" : "Belurmath",
+        "postal_code" : 711202,
+        "city" : "Howrah",
+        "country" : "India"
+    },
+    {
+        "user_id" : 2,
+        "login_id" : "Sanchita15",
+        "password" : "sanchita1947",
+        "user_name" : "Sanchita Dutta",
+        "email" : "sanchitadutta1517@gmail.com",
+        "phone_no" : 9123969504,
+        "address" : "Barrackpore",
+        "postal_code" : 700123,
+        "city" : "North 24 Parganas",
+        "country" : "India"
+    },
+    {
+        "user_id" : 3,
+        "login_id" : "Shubho75",
+        "password" : "@shubho12345",
+        "user_name" : "Shubhankar Ghosh",
+        "email" : "shubhankarghosh1435@gmail.com",
+        "phone_no" : 8617451092,
+        "address" : "Dhubulia",
+        "postal_code" : 712342,
+        "city" : "Mayapur",
+        "country" : "India"
+    },
+    {
+        "user_id" : 4,
+        "login_id" : "Debadrita31",
+        "password" : "debadrita19102022",
+        "user_name" : "Debadrita Nandi",
+        "email" : "debadritanandi19@gmail.com",
+        "phone_no" : 8240062851,
+        "address" : "Dumdum",
+        "postal_code" : 751238,
+        "city" : "South 24 Parganas",
+        "country" : "India"
+    },
+    {
+        "user_id" : 5,
+        "login_id" : "Rhytam19",
+        "password" : "rhytamgarai68",
+        "user_name" : "Rhytam Garai",
+        "email" : "garairhytam@gmail.com",
+        "phone_no" : 7362926410,
+        "address" : "Ghuskora",
+        "postal_code" : 869708,
+        "city" : "Shantiniketan",
+        "country" : "India"
+    }
+]

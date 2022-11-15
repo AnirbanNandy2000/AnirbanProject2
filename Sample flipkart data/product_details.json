@@ -1,0 +1,27 @@
+[
+    {
+        "product_id" : 1,
+        "product_name" : "Mobile",
+        "prouct_price" : "Rs 8,000 - Rs 2,00,000"
+    },
+    {
+        "product_id" : 2,
+        "product_name" : "Grocery",
+        "prouct_price" : "Rs 100 - Rs 5,000"
+    },
+    {
+        "product_id" : 3,
+        "product_name" : "Fashion",
+        "prouct_price" : "Rs 1,000 - Rs 50,000"
+    },
+    {
+        "product_id" : 4,
+        "product_name" : "Electronics",
+        "prouct_price" : "Rs 1,000 - Rs 20,000"
+    },
+    {
+        "product_id" : 5,
+        "product_name" : "Appliances",
+        "prouct_price" : "Rs 10,000 - Rs 1,00,000"
+    }
+]

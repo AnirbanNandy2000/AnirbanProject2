@@ -1,0 +1,50 @@
+[
+    {
+        "wishlist_id" : 1,
+        "whislisted_item_name" : "Cadbury Celebrations Premium", 
+        "Price" : 460,
+        "Rating" : 4.6
+    },
+    {
+        "wishlist_id" : 2,
+        "whislisted_item_name" : "Apple Airpods Pro 2nd Gen", 
+        "Price" : 26000,
+        "Rating" : 4.5
+    },
+    {
+        "wishlist_id" : 3,
+        "whislisted_item_name" : "Coffee Maker", 
+        "Price" : 8399,
+        "Rating" : 4.1
+    },
+    {
+        "wishlist_id" : 4,
+        "whislisted_item_name" : "Smart Door Lock", 
+        "Price" : 2500,
+        "Rating" : 4.7
+    },
+    {
+        "wishlist_id" : 5,
+        "whislisted_item_name" : "MRF cricket bat", 
+        "Price" : 400,
+        "Rating" : 4
+    },
+    {
+        "wishlist_id" : 6,
+        "whislisted_item_name" : "Borosil Electric Kettle", 
+        "Price" : 1600,
+        "Rating" : 4.4
+    },
+    {
+        "wishlist_id" : 7,
+        "whislisted_item_name" : "Gaming Pad", 
+        "Price" : 1000,
+        "Rating" : 4.8
+    },
+    {
+        "wishlist_id" : 8,
+        "whislisted_item_name" : "HP Laptop", 
+        "Price" : 23000,
+        "Rating" : 4.5
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "order_name": "Basmati Rice (10kg)",
+        "name": "Anirban Nandy",
+        "email": "anirbannandy8801@gmail.com",
+        "address": "Belurmath",
+        "phone": 9674095357,
+        "cost": 800,
+        "order status": "Placed"
+    },
+    {
+        "order_name": "Whirlpool 1.5 ton AC",
+        "name": "Debadrita Nandi",
+        "email": "debadritanandi19@gmail.com",
+        "address": "Dumdum",
+        "phone": 8240062851,
+        "cost": 35000,
+        "order status": "Pending"
+    },
+    {
+        "order_name": "Vivo V25",
+        "name": "Sanchita Dutta",
+        "email": "sanchitadutta1517@gmail.com",
+        "address": "Barrackpore",
+        "phone": 9123969504,
+        "cost": 32000,
+        "order status": "Not Deliverable"
+    },
+    {
+        "order_name": "Leather office arm chair",
+        "name": "Shubhankar Ghosh",
+        "email": "shubhankarghosh1435@gmail.com",
+        "address": "Barrackpore",
+        "phone": 8617451092,
+        "cost": 7000,
+        "order status": "Placed"
+    },
+    {
+        "order_name": "Titan analog watch",
+        "name": "Rhytam garai",
+        "email": "garairhytam@gmail.com",
+        "address": "Ghuskora",
+        "phone": 7362926410,
+        "cost": 10000,
+        "order status": "Pending"
+    }
+]
