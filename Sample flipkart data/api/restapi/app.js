@@ -8,10 +8,6 @@ let MongoClient=mongo.MongoClient;
 let mongoUrl=process.env.MongoURL;
 let db;
 
-app.get('/',(req,res)=>{
-    res.send('Hii from express')
-})
-
 //Api for orders
 app.get('/order',(req,res)=>{
     db.collection('order').find().toArray((err,result)=>{
