@@ -2,10 +2,10 @@
   "name": "api",
   "version": "1.0.0",
   "description": "this is about inbuilt",
-  "main": "http.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node staticapi.js",
-    "dev":"nodemon staticapi.js"
+    "start": "node index.js",
+    "dev":"nodemon index.js"
     
   },
   "keywords": [

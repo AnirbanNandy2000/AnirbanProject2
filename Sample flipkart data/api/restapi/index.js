@@ -5,8 +5,12 @@ dotenv.config()
 let port = process.env.PORT || 7800;
 let mongo=require('mongodb');
 let MongoClient=mongo.MongoClient;
-let mongoUrl=process.env.MongoURL;
+let mongoUrl=process.env.LiveMongo;
 let db;
+
+app.get('/',(req,res) => {
+    res.send('Hii from Express')
+})
 
 //Api for orders
 app.get('/order',(req,res)=>{
